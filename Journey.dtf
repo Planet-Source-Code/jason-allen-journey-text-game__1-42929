@@ -1,0 +1,9 @@
+Location|Items|N|E|S|w|U|D|Description|Description2|Description3|Description4
+1.1|Magazine|0|2.1|0|0|0|0|You are in the lobby of a dimly lit, run-down motel.  There are no patrons in sight.  In fact, the only living thing other than you is a cockroach crawling up the leg of the table next to you.|  On the top of the table you see a dusty magazine.|  There is a door exiting to the East.|
+2.1|Garbage|2.2|0|0|1.1|0|0|You are in the back alley of the hotel.|  You can see a large heap of rotten garbage.|  There is a bright light coming from the North.|
+2.2|No Items|2.3|0|2.1|0|0|0|You are in the middle of the alley.|||
+2.3|Lantern|0|0|2.2|0|0|9.1|You are at the end of the alley.  You can see an uncovered manhole with a ladder leading down.|  Next to the ladder sits a lantern.|  To the left you see a locked door.|  Bright light streams from a window high above the door.
+9.1|No Items|9.2|0|0|0|2.3|0|It's Dark.  Except for a beam of light filtering in through the manhole above, you can't see anything.|||
+9.2|No Items|9.3|0|9.1|0|0|0|It's Dark.  You can't see anything.|||
+9.3|Rats; Key|0|0|9.2|0|0|0|It's Dark.  You can't see anything, but you can hear the scratching of many sewer rats.|||
+10.1|Golden Camel|0|0|0|0|0|0|You are in a sealed vault.|  Shining brightly as the sun in the middle of the vault sits the Golden Camel.||
