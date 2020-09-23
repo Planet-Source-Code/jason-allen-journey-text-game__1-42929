@@ -1,0 +1,8 @@
+frmJourney = 36, 129, 531, 577, C, 74, 8, 705, 612, C
+modGame = 22, 22, 517, 470, C
+modItems = 88, 88, 716, 431, C
+modMapRecordset = 154, 154, 649, 602, C
+modOpenSave = 22, 22, 650, 365, C
+modUniversalActionFunctions = 66, 66, 694, 409, C
+clsOpenSave = 44, 44, 606, 492, C
+frmAbout = 88, 88, 583, 536, C, 22, 22, 517, 470, C
